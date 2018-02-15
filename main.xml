@@ -1,11 +1,34 @@
 <xml>
-  <dir>
-    <title>Formats</title>
-    <link>https://raw.githubusercontent.com/woolyk/hounds/master/formats/main.xml</link>
-  </dir>
+	<dir>
+		<title>Formats</title>
+		<link>https://raw.githubusercontent.com/woolyk/hounds/master/formats/main.xml</link>
+	</dir>
 
-  <dir>
-    <title>Shared Lists</title>
-    <link>https://raw.githubusercontent.com/woolyk/hounds/master/sharedlists/main.xml</link>
-  </dir>
+	<dir>
+		<title>Shared Lists</title>
+		<link>https://raw.githubusercontent.com/woolyk/hounds/master/sharedlists/main.xml</link>
+	</dir>
+	  
+	<dir>
+		<title>TV Shows</title>
+		<link>https://raw.githubusercontent.com/woolyk/hounds/master/tvshows/main.xml</link>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/tvshows.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
+		<summary>TV Shows</summary>
+	</dir>   
+	  
+	<dir>
+		<title>Movies</title>
+		<link>https://raw.githubusercontent.com/woolyk/hounds/master/movies/main.xml</link>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/movies.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
+		<summary>Movies</summary>
+	</dir>
+	
+	<plugin>
+		<name>30701</name>
+		<link>plugin://plugin.video.jen/?action=openSettings</link>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+	</plugin>  
 </xml>
