@@ -1,0 +1,43 @@
+<xml>
+  <dir>
+    <title>Movies</title>
+    <link>https://raw.githubusercontent.com/woolyk/hounds/master/movies.xml</link>
+  </dir>
+
+  <dir>
+    <title>TV</title>
+    <link>https://raw.githubusercontent.com/woolyk/hounds/master/tv.xml</link>
+  </dir>
+
+  <dir>
+    <title>Lists</title>
+    <link>https://raw.githubusercontent.com/woolyk/hounds/master/lists.xml</link>
+  </dir>
+
+  <dir>
+    <title>Actors</title>
+    <link>https://raw.githubusercontent.com/woolyk/hounds/master/actors.xml</link>
+  </dir>
+
+  <dir>
+    <title>Music</title>
+    <link>https://raw.githubusercontent.com/woolyk/hounds/master/music.xml</link>
+  </dir>
+
+  <dir>
+    <title>Search Trakt</title>
+    <trakt>search</trakt>
+  </dir>
+
+  <dir>
+    <title>Search TMDB</title>
+    <tmdb>search</tmdb>
+  </dir>
+
+  <plugin>
+    <name>Testings</name>
+    <link>plugin://plugin.video.hounds/?action=developer</link>
+    <thumbnail></thumbnail>
+    <summary>Testings</summary>
+  </plugin>
+</xml>

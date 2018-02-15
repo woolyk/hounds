@@ -1,0 +1,46 @@
+<xml>
+  <dir>
+    <title>Actors</title>
+    <link>file://sharedlists/actors.xml</link>
+  </dir>
+
+<dir>
+    <title>Actresses</title>
+    <link>file://sharedlists/actress.xml</link>
+  </dir>
+
+<dir>
+    <title>Concerts</title>
+    <link>file://sharedlists/concerts.xml</link>
+  </dir>
+
+<dir>
+    <title>Kids Boxsets</title>
+    <link>file://sharedlists/kids_boxset.xml</link>
+  </dir>
+
+<dir>
+    <title>Movie Genres</title>
+    <link>file://sharedlists/genre_movies.xml</link>
+  </dir>
+  
+<dir>
+    <title>Movie Years</title>
+    <link>file://sharedlists/movie-years.xml</link>
+  </dir>
+
+<dir>
+    <title>Networks</title>
+    <link>file://sharedlists/networks.xml</link>
+  </dir>
+
+<dir>
+    <title>Production Companies</title>
+    <link>file://sharedlists/production.xml</link>
+  </dir>
+
+<dir>
+    <title>Tv Genres</title>
+    <link>file://sharedlists/genres_tv.xml</link>
+  </dir>
+
