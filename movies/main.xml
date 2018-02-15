@@ -35,7 +35,7 @@
 </dir>
 <dir>
   <title>Upcoming</title>
-  <tmdb>movies/upcoming</tmdb>
+  <tmdb>movie/upcoming</tmdb>
   <thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/latest-movies.png</thumbnail>
   <fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
   <summary>Upcoming Movies</summary>
