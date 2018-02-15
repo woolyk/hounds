@@ -10,7 +10,7 @@
 	</dir>
 	  
 	<dir>
-		<name>TV Shows</name>
+		<title>TV Shows</title>
 		<link>https://raw.githubusercontent.com/woolyk/hounds/master/tvshows/main.xml</link>
 		<thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/tvshows.png</thumbnail>
 		<fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
@@ -18,7 +18,7 @@
 	</dir>   
 	  
 	<dir>
-		<name>Movies</name>
+		<title>Movies</title>
 		<link>https://raw.githubusercontent.com/woolyk/hounds/master/movies/main.xml</link>
 		<thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/movies.png</thumbnail>
 		<fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
