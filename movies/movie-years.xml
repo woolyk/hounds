@@ -1,4 +1,9 @@
   <dir>
+    <title>2018 Movies</title>
+	<tmdb>year/movies/2018</tmdb>
+  </dir>
+
+  <dir>
     <title>2017 Movies</title>
     <tmdb>year/movies/2017</tmdb>
   </dir>
