@@ -1,51 +1,51 @@
 <xml>
   <dir>
     <name>Genres</name>
-    <link></link>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-    <summary></summary>
+    <link>https://raw.githubusercontent.com/woolyk/hounds/master/movies/genres.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/genres.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
+    <summary>Movie Genres</summary>
   </dir>
   <dir>
     <name>Collections</name>
-    <link></link>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-    <summary></summary>
+    <link>https://raw.githubusercontent.com/woolyk/hounds/master/movies/collections.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/mymovies.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
+    <summary>Collection of Movies</summary>
   </dir>
   <dir>
     <name>Most Popular</name>
-    <link></link>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-    <summary></summary>
+	<tmdb>movies/popular</tmdb>
+    <thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/most-voted.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
+    <summary>Most Popular Movies Now</summary>
   </dir>
   <dir>
     <name>Now Playing</name>
-    <link></link>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-    <summary></summary>
+	<tmdb>movies/now_playing</tmdb>
+    <thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/in-theaters.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
+    <summary>Movies Now Playing</summary>
   </dir>
   <dir>
     <name>Top Rated</name>
-    <link></link>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-    <summary></summary>
+	<tmdb>movies/top_rated</tmdb>
+    <thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/most-popular.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
+    <summary>Top Rated Movies</summary>
   </dir>
   <dir>
-    <name>Trending</name>
-    <link></link>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-    <summary></summary>
+    <name>Upcoming</name>
+	<tmdb>movies/upcoming</tmdb>
+    <thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/latest-movies.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
+    <summary>Upcoming Movies</summary>
   </dir>
   <dir>
     <name>Search</name>
-    <link></link>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-    <summary></summary>
+	<tmdb>search</tmdb>
+    <thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/search.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
+    <summary>Search for Movies</summary>
   </dir>
 </xml>
