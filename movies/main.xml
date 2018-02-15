@@ -1,0 +1,51 @@
+<xml>
+  <dir>
+    <name>Genres</name>
+    <link></link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    <summary></summary>
+  </dir>
+  <dir>
+    <name>Collections</name>
+    <link></link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    <summary></summary>
+  </dir>
+  <dir>
+    <name>Most Popular</name>
+    <link></link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    <summary></summary>
+  </dir>
+  <dir>
+    <name>Now Playing</name>
+    <link></link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    <summary></summary>
+  </dir>
+  <dir>
+    <name>Top Rated</name>
+    <link></link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    <summary></summary>
+  </dir>
+  <dir>
+    <name>Trending</name>
+    <link></link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    <summary></summary>
+  </dir>
+  <dir>
+    <name>Search</name>
+    <link></link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    <summary></summary>
+  </dir>
+</xml>
