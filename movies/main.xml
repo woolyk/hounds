@@ -13,6 +13,12 @@
   <summary>Collection of Movies</summary>
 </dir>
 <dir>
+  <title>Movie Years</title>
+  <link>https://raw.githubusercontent.com/woolyk/hounds/master/movies/movie-years.xml</link>
+  <thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/latest-movies.png</thumbnail>
+  <summary>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</summary>
+</dir>
+<dir>
   <title>Most Popular</title>
   <tmdb>movies/popular</tmdb>
   <thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/most-voted.png</thumbnail>
