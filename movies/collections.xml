@@ -15,6 +15,14 @@
 </dir>
 
 <dir>
+	<title>Animated Movies</title>
+	<tmdb>list/48002</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/original/iayMeUyqlPLR2JgftkLPnVpb22K.jpg</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
+	<summary>Animated Movies</summary>
+</dir>
+
+<dir>
 	<title>Comedy</title>
 	<tmdb>list/43260</tmdb>
 	<thumbnail>https://image.tmdb.org/t/p/original/wEgm6iVOD4afMlEo1VGi3Yz0cmd.jpg</thumbnail>
@@ -71,6 +79,14 @@
 </dir>
 
 <dir>
+	<title>Murder Mystery</title>
+	<tmdb>list/48003</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/original/iBlfxlw8qwtUS0R8YjIU7JtM6LM.jpg</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
+	<summary>Murder Mystery Movies</summary>
+</dir>
+
+<dir>
 	<title>Pirate Movies</title>
 	<tmdb>list/43307</tmdb>
 	<thumbnail>https://image.tmdb.org/t/p/original/aHEDfOxeCWdBhchGwlUQvUOv5Tb.jpg</thumbnail>
@@ -116,6 +132,14 @@
 	<thumbnail>https://image.tmdb.org/t/p/original/bxK2SE2PGQUQJC1XjftntJTCpQJ.jpg</thumbnail>
 	<fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
 	<summary>Star Wars Movie Collection</summary>
+</dir>
+
+<dir>
+	<title>Want to Watch</title>
+	<tmdb>list/48000</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/original/o6EsOqITcSzcdwD1zxBM9imdxjr.jpg</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
+	<summary>Priority Movies I want to Watch</summary>
 </dir>
 
 <dir>
