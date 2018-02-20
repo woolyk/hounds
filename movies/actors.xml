@@ -1,0 +1,110 @@
+<dir>
+	<title>[B][COLORwhite]Adam Sandler[/COLOR][/B]</title>
+	<tmdb>person/movies/19292</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tv9V6QsuZ3bcp4ciUJjwjcc4qAg.jpg</thumbnail>
+	<summary>Movies by Adam Sandler</summary>
+</dir>
+<dir>
+	<title>[B][COLORwhite]Al Pacino[/COLOR][/B]</title>
+	<tmdb>person/movies/1158</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ks7Ba8x9fJUlP9decBr6Dh5mThX.jpg</thumbnail>
+	<summary>Movies by Al Pacino</summary>
+</dir>
+<dir>
+	<title>[B][COLORwhite]Anthony Hopkins[/COLOR][/B]</title>
+	<tmdb>person/movies/4173</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdoBTIru71FbPuHGEgox5RVmIO0.jpg</thumbnail>
+	<summary>Movies by Anthony Hopkins</summary>
+</dir>
+<dir>
+	<title>[B][COLORwhite]Anthony Quinn[/COLOR][/B]</title>
+	<tmdb>person/movies/5401</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sKpm4KCoUbmMbR86fpqcgBCHrJ.jpg</thumbnail>
+	<summary>Movies by Anthony Quinn</summary>
+</dir>
+<dir>
+	<title>[B][COLORwhite]Arnold Schwarzenegger[/COLOR][/B]</title>
+	<tmdb>person/movies/1100</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zooXFWF1JtrV7UnZyGRxXDW11qt.jpg</thumbnail>
+	<summary>Movies by Arnold Schwarzenegger</summary>
+</dir>
+<dir>
+	<title>[B][COLORwhite]Ben Affleck[/COLOR][/B]</title>
+	<tmdb>person/movies/880</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Zy12dUasr43oF8hyU5iBz5iOpO.jpg</thumbnail>
+	<summary>Movies by Ben Affleck</summary>
+</dir>
+<dir>
+	<title>[B][COLORwhite]Ben Stiller[/COLOR][/B]</title>
+	<tmdb>person/movies/7399</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9M2PyoF7QDSMq1OwW0D892fIkV.jpg</thumbnail>
+	<summary>Movies by Ben Stiller</summary>
+</dir>
+<dir>
+	<title>[B][COLORwhite]Brad Pitt[/COLOR][/B]</title>
+	<tmdb>person/movies/287</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kU3B75TyRiCgE270EyZnHjfivoq.jpg</thumbnail>
+	<summary>Movies By Brad Pitt</summary>
+</dir>
+<dir>
+	<title>[B][COLORwhite]Bradley Cooper[/COLOR][/B]</title>
+	<tmdb>person/movies/51329</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5LUl9bljJnah3S5rtN7rScrmI8.jpg</thumbnail>
+	<summary>Movies By Bradley Cooper</summary>
+</dir>
+<dir>
+	<title>[B][COLORwhite]Christian Bale[/COLOR][/B]</title>
+	<tmdb>person/movies/3894</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ocrTd8ChuUyJOzMuD4PsQw8eCB.jpg</thumbnail>
+	<summary>Movies By Christian Bale</summary>
+</dir>
+<dir>
+	<title>[B][COLORwhite]Client Eastwood[/COLOR][/B]</title>
+	<tmdb>person/movies/190</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8h4ZHteFFXfmzUW6OEaPWanDnm.jpg</thumbnail>
+	<summary>Movies By Clint Eastwood</summary>
+</dir>
+<dir>
+	<title>[B][COLORwhite]Denzel Washington[/COLOR][/B]</title>
+	<tmdb>person/movies/5292</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/khMf8LLTtppUwuZqqnigD2nAy26.jpg</thumbnail>
+	<summary>Movies By Denzel Washington</summary>
+</dir>
+<dir>
+	<title>[B][COLORwhite]Dustin Hoffman[/COLOR][/B]</title>
+	<tmdb>person/movies/4483</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3pZx8NB30KIw31rBAT62TUDQFEb.jpg</thumbnail>
+	<summary>Movies By Dustin Hoffman</summary>
+</dir>
+<dir>
+	<title>[B][COLORwhite]Eddie Murphy[/COLOR][/B]</title>
+	<tmdb>person/movies/776</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsi706zdqs0KAPdOsqz6AkLNcFF.jpg</thumbnail>
+	<summary>Movies By Eddie Murphy</summary>
+</dir>
+<dir>
+	<title>[B][COLORwhite]Harrison Ford[/COLOR][/B]</title>
+	<tmdb>person/movies/3</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7LOTdRfHU1H1qHBxpUv3jT04eWB.jpg</thumbnail>
+	<summary>Movies By Harrison Ford</summary>
+</dir>
+<!--
+<dir>
+	<title>[B][COLORwhite] [/COLOR][/B]</title>
+	<tmdb>person/movies/</tmdb>
+	<thumbnail></thumbnail>
+	<summary>Movies By </summary>
+</dir>
+<dir>
+	<title>[B][COLORwhite] [/COLOR][/B]</title>
+	<tmdb>person/movies/</tmdb>
+	<thumbnail></thumbnail>
+	<summary>Movies By </summary>
+</dir>
+<dir>
+	<title>[B][COLORwhite] [/COLOR][/B]</title>
+	<tmdb>person/movies/</tmdb>
+	<thumbnail></thumbnail>
+	<summary>Movies By </summary>
+</dir>
+-->

@@ -1,0 +1,26 @@
+<dir>
+	<title>[B][COLORwhite]Amy Adams[/COLOR][/B]</title>
+	<tmdb>person/movies/9273</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8lBJJkp1098u7sMImfqnT6dbcMp.jpg</thumbnail>
+	<summary>Movies by Amy Adams</summary>
+</dir>
+<dir>
+	<title>[B][COLORwhite]Angelina Jolie[/COLOR][/B]</title>
+	<tmdb>person/movies/11701</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6tocswK39SrSjZIRDaTpVyPxDz8.jpg</thumbnail>
+	<summary>Movies By Angelina Jolie</summary>
+</dir>
+<dir>
+	<title>[B][COLORwhite]Margaret Rutherford[/COLOR][/B]</title>
+	<tmdb>person/movies/11127</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mB0mupPkd27Kb1EgIwAXnY7LpBo.jpg</thumbnail>
+	<summary>Movies from Margaret Rutherford</summary>
+</dir>
+<!--
+<dir>
+	<title>[B][COLORwhite] [/COLOR][/B]</title>
+	<tmdb>person/movies/</tmdb>
+	<thumbnail></thumbnail>
+	<summary>Movies By </summary>
+</dir>
+-->

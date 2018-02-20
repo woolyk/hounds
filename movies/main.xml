@@ -40,6 +40,13 @@
   <summary>Top Rated Movies</summary>
 </dir>
 <dir>
+	<title>Actors & Actresses</title>
+	<link>https://raw.githubusercontent.com/woolyk/hounds/master/movies/people.xml</link>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/people.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
+	<summary>List of Actors and Actresses from the Movies</summary>
+</dir>
+<dir>
   <title>Search</title>
   <tmdb>search</tmdb>
   <thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/search.png</thumbnail>

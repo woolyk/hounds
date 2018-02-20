@@ -7,6 +7,13 @@
     <summary>Collection of Television Shows.</summary>
   </dir>
   <dir>
+	<title>TV Genre</title>
+	<link>https://raw.githubusercontent.com/woolyk/hounds/master/tvshows/genre-tv.xml</link>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/genres.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
+	<summary>Television Genres</summary>
+  </dir>
+  <dir>
     <title>Networks</title>
     <link>https://raw.githubusercontent.com/woolyk/hounds/master/tvshows/networks.xml</link>
     <thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/networks.png</thumbnail>
