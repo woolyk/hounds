@@ -88,9 +88,56 @@
 	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7LOTdRfHU1H1qHBxpUv3jT04eWB.jpg</thumbnail>
 	<summary>Movies By Harrison Ford</summary>
 </dir>
-<!--
+<dir>
+	<title>[B][COLORwhite]Jack Nicholson[/COLOR][/B]</title>
+	<tmdb>person/movies/514</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hINAkm21g80UbaAxA6rHhOaT5Jk.jpg</thumbnail>
+	<summary>Movies By Jack Nicholson</summary>
+</dir>
+<dir>
+	<title>[B][COLORwhite]Jason Statham[/COLOR][/B]</title>
+	<tmdb>person/movies/976</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/PhWiWgasncGWD9LdbsGcmxkV4r.jpg</thumbnail>
+	<summary>Movies By Jason Statham</summary>
+</dir>
 <dir>
 	<title>[B][COLORwhite] [/COLOR][/B]</title>
+	<tmdb>person/movies/</tmdb>
+	<thumbnail></thumbnail>
+	<summary>Jason Statham (born 26. July 1967) is an English actor and martial artist, known for his roles in the Guy Ritchie crime films Lock, Stock and Two Smoking Barrels; Revolver; and Snatch.</summary>
+</dir>
+<dir>
+	<title>[B][COLORwhite]Jim Carrey[/COLOR][/B]</title>
+	<tmdb>person/movies/206</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/a46mhZ3ZLIx3SOGTj3WhchC7XbQ.jpg</thumbnail>
+	<summary>James Eugene "Jim" Carrey is a Canadian-American actor, comedian, singer and writer. He has received two Golden Globe Awards and has also been nominated on four occasions.</summary>
+</dir>
+<dir>
+	<title>[B][COLORwhite]Joe Pesci[/COLOR][/B]</title>
+	<tmdb>person/movies/4517</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2CaYAhUZgkAeqtpIzuqGcqArsOy.jpg</thumbnail>
+	<summary>Joseph Frank "Joe" Pesci (born February 9, 1943) is an American actor, comedian, singer and musician. He is known for his roles as violent mobsters, funnymen, comic foils and quirky sidekicks. Pesci has starred in a number of high profile films such as Goodfellas, Casino, Raging Bull, Once Upon a Time in America, My Cousin Vinny, Easy Money, JFK, Moonwalker, Home Alone, Home Alone 2: Lost in New York, and the 2nd, 3rd, and 4th Lethal Weapon films.</summary>
+</dir>
+<dir>
+	<title>[B][COLORwhite]Johnny Depp[/COLOR][/B]</title>
+	<tmdb>person/movies/85</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ea4fTp9T8Zy2KWxyFsqDIBgHZmb.jpg</thumbnail>
+	<summary>John Christopher "Johnny" Depp II (born June 9, 1963) is an American actor and musician. He has won the Golden Globe Award and Screen Actors Guild award for Best Actor.</summary>
+</dir>
+<dir>
+	<title>[B][COLORwhite]Keanu Reeves[/COLOR][/B]</title>
+	<tmdb>person/movies/6384</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOlYWhVuOiU6azC4Bw6zlXZ5QTC.jpg</thumbnail>
+	<summary>Keanu Charles Reeves is a Canadian actor. Reeves is known for his roles in Bill & Ted's Excellent Adventure, Speed, Point Break, and The Matrix trilogy as Neo. He has collaborated with major directors such as Stephen Frears (in the 1988 period drama Dangerous Liaisons); Gus Van Sant (in the 1991 independent film My Own Private Idaho); and Bernardo Bertolucci (in the 1993 film Little Buddha). Referring to his 1991 film releases, The New York Times' critic, Janet Maslin, praised Reeves' versatility, saying that he "displays considerable discipline and range. He moves easily between the buttoned-down demeanor that suits a police procedural story and the loose-jointed manner of his comic roles." A repeated theme in roles he has portrayed is that of saving the world, including the characters of Ted Logan, Buddha, Neo, Johnny Mnemonic, John Constantine and Klaatu.</summary>
+</dir>
+<dir>
+	<title>[B][COLORwhite] [/COLOR][/B]</title>
+	<tmdb>person/movies/</tmdb>
+	<thumbnail></thumbnail>
+	<summary>Movies By </summary>
+</dir>
+<dir>
+	<title>[B][COLORwhite][/COLOR][/B]</title>
 	<tmdb>person/movies/</tmdb>
 	<thumbnail></thumbnail>
 	<summary>Movies By </summary>
@@ -102,9 +149,27 @@
 	<summary>Movies By </summary>
 </dir>
 <dir>
+	<title>[B][COLORwhite][/COLOR][/B]</title>
+	<tmdb>person/movies/</tmdb>
+	<thumbnail></thumbnail>
+	<summary>Movies By </summary>
+</dir>
+<dir>
 	<title>[B][COLORwhite] [/COLOR][/B]</title>
 	<tmdb>person/movies/</tmdb>
 	<thumbnail></thumbnail>
 	<summary>Movies By </summary>
 </dir>
--->
+<dir>
+	<title>[B][COLORwhite][/COLOR][/B]</title>
+	<tmdb>person/movies/</tmdb>
+	<thumbnail></thumbnail>
+	<summary>Movies By </summary>
+</dir>
+<dir>
+	<title>[B][COLORwhite] [/COLOR][/B]</title>
+	<tmdb>person/movies/</tmdb>
+	<thumbnail></thumbnail>
+	<summary>Movies By </summary>
+</dir>
+
