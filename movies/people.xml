@@ -10,3 +10,10 @@
 	<thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/</thumbnail>
 	<summary>Actresses from the Movies</summary>
 </dir>
+<dir>
+  <title>Search</title>
+  <tmdb>search</tmdb>
+  <thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/search.png</thumbnail>
+  <fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
+  <summary>Search for People</summary>
+</dir>
