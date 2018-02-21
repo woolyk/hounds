@@ -1,19 +1,19 @@
 <dir>
 	<title>Actors</title>
 	<link>https://raw.githubusercontent.com/woolyk/hounds/master/movies/actors.xml</link>
-	<thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/</thumbnail>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/people-search.png</thumbnail>
 	<summary>Actors from the Movies</summary>
 </dir>
 <dir>
 	<title>Actresses</title>
 	<link>https://raw.githubusercontent.com/woolyk/hounds/master/movies/actress.xml</link>
-	<thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/</thumbnail>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/people-search.png</thumbnail>
 	<summary>Actresses from the Movies</summary>
 </dir>
 <dir>
   <title>Search</title>
   <tmdb>search</tmdb>
-  <thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/search.png</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/people-search.png</thumbnail>
   <fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
   <summary>Search for People</summary>
 </dir>
