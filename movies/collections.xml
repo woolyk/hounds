@@ -23,6 +23,14 @@
 </dir>
 
 <dir>
+	<title>Black and White</title>
+	<tmdb>list/50599</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/original/eNzlDllIxJinzG40OHehaXVzkCK.jpg</thumbnail>
+	<fanart>>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
+	<summary>Old Black and White Movies</summary>
+</dir>
+
+<dir>
 	<title>Comedy</title>
 	<tmdb>list/43260</tmdb>
 	<thumbnail>https://image.tmdb.org/t/p/original/wEgm6iVOD4afMlEo1VGi3Yz0cmd.jpg</thumbnail>
@@ -68,6 +76,14 @@
 	<thumbnail>https://image.tmdb.org/t/p/w640/nUt41YMX6tHcyrHHlH6UMs2tZ9n.jpg</thumbnail>
 	<fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
 	<summary>Comedian Jim Jefferies.</summary>
+</dir>
+
+<dir>
+	<title>Laurel and Hardy</title>
+	<tmdb>list/50700</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/original/dI8FVtA9jbtuXjt7PscU9IqpvDW.jpg</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
+	<summary>Laurel and Hardy Movies</summary>
 </dir>
 
 <dir>
