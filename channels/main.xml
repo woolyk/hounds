@@ -1,0 +1,23 @@
+<xml>
+	<dir>
+		<title>All Countries</title>
+		<tvmaze>country/all</tvmaze>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/networks.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
+		<summary>Networks from all Countries</summary>
+	</dir>
+	<dir>
+		<title>Irish Networks</title>
+		<tvmaze>country/Ireland/1</tvmaze>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/networks.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
+		<summary>Irish Network Stations</summary>
+	</dir>
+	<dir>
+		<title>ABC Network shows</title>
+		<tvmaze>network/3/1</tvmaze>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/networks.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
+		<summary>ABC Network Shows</summary>
+	</dir>
+</xml>
