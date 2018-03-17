@@ -25,9 +25,17 @@
 		<summary>Movies</summary>
 	</dir>
 	
+	<dir>
+		<title>Channels</title>
+		<link>https://raw.githubusercontent.com/woolyk/hounds/master/channels/main.xml</link>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/channels.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
+		<summary>Television Channels</summary>
+	</dir>
+	
 	<plugin>
 		<name>30701</name>
-		<link>plugin://plugin.video.jen/?action=openSettings</link>
+		<link>plugin://plugin.video.hounds/?action=openSettings</link>
 		<thumbnail></thumbnail>
 		<fanart></fanart>
 	</plugin>  
