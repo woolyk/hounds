@@ -42,11 +42,11 @@
 		<summary>FOX Network Shows</summary>
 	</dir>
     <dir>
-		<title>Hulu Network Shows</title>
+		<title>CBS Network Shows</title>
 		<tvmaze>network/2/1</tvmaze>
-		<thumbnail></thumbnail>
-		<fanart></fanart>
-		<summary>Hulu Web Channel</summary>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/networks.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
+		<summary>CBS Network Shows</summary>
     </dir>
 	<dir>
 		<title>HBO Network shows</title>
@@ -61,5 +61,19 @@
 		<thumbnail></thumbnail>
 		<fanart></fanart>
 		<summary>20th Television Web Channel</summary>
+    </dir>
+    <dir>
+		<title>Netflix Web Channels</title>
+		<tvmaze>web_channel/1</tvmaze>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<summary>Netflix Web Channel</summary>
+    </dir>
+    <dir>
+		<title>Hulu Web Channels</title>
+		<tvmaze>web_channel/2</tvmaze>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<summary>Hulu Web Channel</summary>
     </dir>
 </xml>
