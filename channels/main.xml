@@ -56,24 +56,10 @@
 		<summary>HBO Network Shows</summary>
 	</dir>
     <dir>
-		<title>20th Television Channels</title>
-		<tvmaze>web_channel/178</tvmaze>
-		<thumbnail></thumbnail>
-		<fanart></fanart>
-		<summary>20th Television Web Channel</summary>
-    </dir>
-    <dir>
-		<title>Netflix Web Channels</title>
+		<title>Web Channels</title>
 		<tvmaze>web_channel/1</tvmaze>
 		<thumbnail></thumbnail>
 		<fanart></fanart>
-		<summary>Netflix Web Channel</summary>
-    </dir>
-    <dir>
-		<title>Hulu Web Channels</title>
-		<tvmaze>web_channel/2</tvmaze>
-		<thumbnail></thumbnail>
-		<fanart></fanart>
-		<summary>Hulu Web Channel</summary>
+		<summary>Web Channel</summary>
     </dir>
 </xml>
