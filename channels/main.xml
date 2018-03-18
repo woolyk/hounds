@@ -49,10 +49,17 @@
 		<summary>HBO Network Shows</summary>
 	</dir>
     <dir>
-		<title>Web Channels</title>
+		<title>20th Television Channels</title>
 		<tvmaze>web_channel/178</tvmaze>
 		<thumbnail></thumbnail>
 		<fanart></fanart>
 		<summary>20th Television Web Channel</summary>
+    </dir>
+    <dir>
+		<title>Hulu Channel</title>
+		<tvmaze>web_channel/2</tvmaze>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<summary>Hulu Web Channel</summary>
     </dir>
 </xml>
