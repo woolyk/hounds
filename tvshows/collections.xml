@@ -47,6 +47,12 @@
 	<summary>Science Fiction TV Shows</summary>
 </dir>
 <dir>
+	<title>To Watch Shows</title>
+	<tmdb>list/51100</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/original/iwWDLp0QYeOIk7hT6eDSGRunWVe.jpg</thumbnail>
+	<summary>Shows on TV to watch.</summary>
+</dir>
+<dir>
 	<title>Search</title>
 	<tmdb>search</tmdb>
 	<thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/search.png</thumbnail>
