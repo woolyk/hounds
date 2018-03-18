@@ -14,10 +14,45 @@
 		<summary>Irish Network Stations</summary>
 	</dir>
 	<dir>
+		<title>UK Networks</title>
+		<tvmaze>country/United Kingdom/1</tvmaze>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/networks.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
+		<summary>UK Network Stations</summary>
+	</dir>
+	<dir>
+		<title>US Networks</title>
+		<tvmaze>country/United States/1</tvmaze>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/networks.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
+		<summary>US Network Stations</summary>
+	</dir>
+	<dir>
 		<title>ABC Network shows</title>
 		<tvmaze>network/3/1</tvmaze>
 		<thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/networks.png</thumbnail>
 		<fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
 		<summary>ABC Network Shows</summary>
 	</dir>
+	<dir>
+		<title>FOX Network shows</title>
+		<tvmaze>network/4/1</tvmaze>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/networks.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
+		<summary>FOX Network Shows</summary>
+	</dir>
+	<dir>
+		<title>HBO Network shows</title>
+		<tvmaze>network/8/1</tvmaze>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/networks.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
+		<summary>HBO Network Shows</summary>
+	</dir>
+    <dir>
+		<title>Web Channels</title>
+		<tvmaze>web_channel/178</tvmaze>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<summary>20th Television Web Channel</summary>
+    </dir>
 </xml>
