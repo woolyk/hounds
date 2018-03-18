@@ -41,6 +41,13 @@
 		<fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
 		<summary>FOX Network Shows</summary>
 	</dir>
+    <dir>
+		<title>Hulu Network Shows</title>
+		<tvmaze>network/2/1</tvmaze>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<summary>Hulu Web Channel</summary>
+    </dir>
 	<dir>
 		<title>HBO Network shows</title>
 		<tvmaze>network/8/1</tvmaze>
@@ -54,12 +61,5 @@
 		<thumbnail></thumbnail>
 		<fanart></fanart>
 		<summary>20th Television Web Channel</summary>
-    </dir>
-    <dir>
-		<title>Hulu Channel</title>
-		<tvmaze>web_channel/2</tvmaze>
-		<thumbnail></thumbnail>
-		<fanart></fanart>
-		<summary>Hulu Web Channel</summary>
     </dir>
 </xml>
