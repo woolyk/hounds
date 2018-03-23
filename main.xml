@@ -1,7 +1,7 @@
 <xml>
 
 	<dir>
-		<title>[COLOR ff1e90ff]* [/COLOR]TV Shows</title>
+		<title>TV Shows</title>
 		<link>https://raw.githubusercontent.com/woolyk/hounds/master/tvshows/main.xml</link>
 		<thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/tvshows.png</thumbnail>
 		<fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
@@ -9,7 +9,7 @@
 	</dir>   
 	  
 	<dir>
-		<title>[COLOR ff1e90ff]* [/COLOR]Movies</title>
+		<title>Movies</title>
 		<link>https://raw.githubusercontent.com/woolyk/hounds/master/movies/main.xml</link>
 		<thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/movies.png</thumbnail>
 		<fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
@@ -17,7 +17,7 @@
 	</dir>
 	
 	<dir>
-		<title>[COLOR ff1e90ff]* [/COLOR]Network Channels</title>
+		<title>Network Channels</title>
 		<link>https://raw.githubusercontent.com/woolyk/hounds/master/channels/main.xml</link>
 		<thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/channels.png</thumbnail>
 		<fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
@@ -25,10 +25,10 @@
 	</dir>
 	
 	<plugin>
-		<name>[COLOR ff1e90ff]* [/COLOR]30701</name>
+		<name>30701</name>
 		<link>plugin://plugin.video.hounds/?action=openSettings</link>
-		<thumbnail></thumbnail>
-		<fanart></fanart>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/tools.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
 	</plugin>
 
 </xml>
