@@ -1,4 +1,5 @@
 <xml>
+	<!--
 	<dir>
 		<title>[COLOR ff1e90ff]* [/COLOR]Formats</title>
 		<link>https://raw.githubusercontent.com/woolyk/hounds/master/formats/main.xml</link>
@@ -8,7 +9,7 @@
 		<title>Shared Lists</title>
 		<link>https://raw.githubusercontent.com/woolyk/hounds/master/sharedlists/main.xml</link>
 	</dir>
-	  
+	-->
 	<dir>
 		<title>TV Shows</title>
 		<link>https://raw.githubusercontent.com/woolyk/hounds/master/tvshows/main.xml</link>
@@ -26,7 +27,7 @@
 	</dir>
 	
 	<dir>
-		<title>Channels</title>
+		<title>Network Channels</title>
 		<link>https://raw.githubusercontent.com/woolyk/hounds/master/channels/main.xml</link>
 		<thumbnail>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/channels.png</thumbnail>
 		<fanart>https://raw.githubusercontent.com/woolyk/hounds/master/media/hounds/fanart.jpg</fanart>
